@@ -9,11 +9,11 @@ This course is about modern statistics and old-fashioned critical thinking.  Inf
 3. Make justifiable and reproducible statistical inferences using real data.
 4. Plan for the coherent analysis of data in your future agrifood studies, careers and life.  
 
-Please have a computer with R and RStudio (Desktop) installed before the first session starts. RStudio is open source software and can be downloaded from:
+Please have a computer with R and RStudio (Desktop) installed. RStudio is open source software and can be downloaded from:
 https://www.rstudio.com/products/rstudio/download/. Instructions for installing R (immediately before RStudio) are at the same site.
 
-RESOURCES: The notes in the folder above are DRAFT at this stage - I will be making a few changes as we proceed.  As we need them, further folders with computing resources, including data and R scripts, will be added.
+RESOURCES: See the folders above.  As we progress, the folders and contents with will evolve.
 
-ZOOM: All online sessions will be at https://utas.zoom.us/j/89795424322   
+ZOOM: All online sessions will be at https://utas.zoom.us/j/89795424322 (see MYLo for the timetable).
 
 TEXT-BOOK: https://www.amazon.com.au/Learning-Data-Statistics-David-Spiegelhalter/dp/0241258766/
