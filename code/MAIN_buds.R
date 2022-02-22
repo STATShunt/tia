@@ -33,5 +33,5 @@ fsum_simp<-function(i){
 out_sum<-aggregate(CBDA~treatment,data=xbud,FUN=fsum_simp)
 
 #output to working directory
-write.table(file="summary_stats_buds.CSV",out_sum,sep=",",row.names = FALSE)
+write.table(file="summary_stats_example_buds.CSV",out_sum,sep=",",row.names = FALSE)
 

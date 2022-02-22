@@ -1,9 +1,0 @@
-"year","treatment","name","value.n","value.mean","value.sd","value.percentage >=3"
-"2019","Treated","CO2 injury type IFB",180.0000000,  1.0000000,  0.0000000,  0.0000000
-"2020","Treated","CO2 injury type IFB",450.0000000,  1.0888889,  0.5048637,  0.0267000
-"2019","Untreated","CO2 injury type IFB",360.0000000,  1.1444444,  0.5343074,  0.0444000
-"2020","Untreated","CO2 injury type IFB",150.0000000,  1.1333333,  0.3783870,  0.0133000
-"2019","Treated","Radial type IFB",180.0000000,  1.0000000,  0.0000000,  0.0000000
-"2020","Treated","Radial type IFB",450.0000000,  1.0000000,  0.0000000,  0.0000000
-"2019","Untreated","Radial type IFB",360.0000000,  1.0694444,  0.3043962,  0.0083000
-"2020","Untreated","Radial type IFB",150.0000000,  1.0866667,  0.2822885,  0.0000000
