@@ -15,8 +15,11 @@ getwd()
 xurl<-"https://raw.githubusercontent.com/STATShunt/tia/master/data/cannabis/data_buds.csv"
 xbud<-read.csv(file=xurl,check.names = FALSE,stringsAsFactors =TRUE)
 
-#open data in an RStudioe window (just for looking at ...)
+#open data in an RStudio window (just for looking at ...)
 View(xbud)
+
+#overview of the columns within xbud
+str(xbud) 
 
 ############################################################################################
 ##  summarise data
