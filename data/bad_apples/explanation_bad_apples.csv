@@ -1,0 +1,14 @@
+﻿year,treatment,ID,name,value
+2019,Untreated,11.8,internal,1
+2019,Untreated,11.8,C02,1
+2019,Untreated,11.8,radial,1
+2019,Untreated,11.8,internal,1
+…,,,,
+,,,,
+Data are individual fruit from randomly selected trees (scored on a scale of 1 to 5).,,,,
+Treated trees have been sprayed with something that is an effort to reduce browning,,,,
+The ID column identifies the tree that the fruit come from.,,,,
+"In the name column, three types of browning are scored (internal, radial and CO2)",,,,
+The score is the value colum.  A score 1 means no signs of browning.,,,,
+"Scores between 1 and 5 are a subjective rating by the researcher, between no browning and completely brown.",,,,
+(2 means <25% brown; 3 means 25-50%; 4 means 50-75% and 5 >75% brown) ,,,,
