@@ -36,7 +36,7 @@ fsum_simp<-function(i){
 out_sum<-aggregate(yield~treatment*variety,data=x,FUN=fsum_simp)
 
 #output to working directory
-write.table(file="summary_stats_example_barley.CSV",out_sum,sep=",",row.names = FALSE)
+write.table(file="summary_stats_example_barley.csv",out_sum,sep=",",row.names = FALSE)
 
 
 
