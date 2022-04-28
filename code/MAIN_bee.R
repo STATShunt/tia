@@ -8,11 +8,11 @@ getwd()
 ##  read in data and view
 ############################################################################################
 
-# # # read in raw file, formatted with columns set by a comma
+#  read in raw file, formatted with columns set by a comma
 # x<-read.csv(file="bee_trips.csv",check.names = FALSE) # assumes clean CSV file in working directory
 
 # read in raw file from GITHUB, formatted with columns set by a comma
-xurl<-"https://raw.githubusercontent.com/STATShunt/tia/master/data/urchin/urchin_subset.csv"
+xurl<-"https://raw.githubusercontent.com/STATShunt/tia/master/data/bee/bee_trips.csv"
 x<-read.csv(file=xurl,check.names = FALSE,stringsAsFactors =TRUE)
 
 #open data in an RStudio window (just for looking at ...)
