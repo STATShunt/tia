@@ -26,7 +26,7 @@ title(main="the straighter the line the more normal the data",cex.main=.65,line=
 
 ## main idea is to resample from the rows (1:nrow(x)) of x many times ---> then use these index numbers to point to the data and make new bootstrap-samples.
 nboot<-1000 # number of bootstrap samples to take
-nsamp<-25
+nsamp<-15
 
 # example:  
 sample(1:nrow(x),nsamp,replace = TRUE)
