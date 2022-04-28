@@ -1,0 +1,16 @@
+﻿block,product,rate,plant,period,height,csa
+1,2,RATE1,1,7,9.5,2.78
+1,1,RATE4,2,7,19.5,8
+1,1,RATE3,3,7,14,4.18
+1,1,RATE2,4,7,13.5,4.08
+…,,,,,,
+,,,,,,
+,,,,,,
+All plants are sunflowers from the same seed packet (soil is the same in each pot and position in blocks is randomised).,,,,,,
+"The ""block"" column identifies the broad position in the greenhouse.",,,,,,
+"The ""product"" column identifies the size of the crushed urchin dust (1=coarse, 2=medium, 3=fine)",,,,,,
+"The ""rate"" column identifies the ppm for fertiliser (RATE1 to RATE5 is urchin fret, with RATE1 being the lowest ppm)",,,,,,
+RATE0 is not urchin fertiliser but an industry standard mix.,,,,,,
+"The ""plant"" columns is a redundant pot ID ",,,,,,
+The period is the last measurement week.,,,,,,
+height and csa are outcome measurements.,,,,,,
