@@ -1,0 +1,13 @@
+﻿date,hive,count,duration
+1/1/2021,hive1,3,301
+10/1/2021,hive1,7,1179
+11/1/2021,hive1,6,580
+13/1/2021,hive1,2,255
+…,,,
+,,,
+,,,
+"Aggregated bee trip data, per hive and day (same bee can come and go more than once)",,,
+"The ""date"" column identifies each day from which the totals are aggregated",,,
+"The ""hive"" identifies each of three hives",,,
+"The ""count"" column identifies the unique number of bee trips recorded per day",,,
+"The ""duration"" column identifies the total time (minutes) of bee trips (exit to return)",,,
