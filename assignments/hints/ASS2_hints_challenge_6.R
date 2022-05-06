@@ -20,7 +20,7 @@ mu0;muhat;sigmahat2;n
 tstat<-(muhat-mu0)/sqrt(sigmahat2/n)
 tstat # is this number "extreme" in absolute value if the null hypothesis is true?
 
-# our null hypothesis is H0: mu0 = -9  i.e. "true mean of y is equal to -9"
+# our null hypothesis is H0: mu = -9  i.e. "true mean of y is equal to -9"
 
 # question 3
 t.test(y,mu=mu0)  # look for the value of "t" which is the test statistic
