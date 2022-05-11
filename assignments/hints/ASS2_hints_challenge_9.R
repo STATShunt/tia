@@ -36,8 +36,9 @@ mysamp_CI_lower<-unlist(lapply(mysamp_tests,function(i){i$conf.int[1]}))
 
 
 # question 3
-data.frame(mysamp_CI_lower,mysamp_CI_upper,mu_true
-           ,indicate=mysamp_CI_lower<mu_true&mu_true<mysamp_CI_upper)  # the sort of info you need to count up ...
+mu0<-0 # hypothesised mean
+data.frame(mysamp_CI_lower,mysamp_CI_upper,mu0
+           ,indicate=mysamp_CI_lower<mu0&mu0<mysamp_CI_upper)  # the sort of info you need to count up ...
 # answer needs to count the number of values within "indicate" above
 
 
