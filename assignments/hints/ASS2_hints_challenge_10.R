@@ -14,10 +14,10 @@
 # you have this code from Challenge 9
 
 ### question 3
-# same as Challenge 9
+# essentially the same as Challenge 9 (note proportion not total)
 
 ### question 4
-# see Challenge 9 and your answers to Q5 there
+# see Challenge 9 and your answers to Q5 there 
 
 ### question 5
 # be brief and just try to demonstrate to me what is going on
